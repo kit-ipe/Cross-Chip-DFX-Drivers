@@ -1,6 +1,6 @@
 # Cross-Chip-DFX-Drivers
 
-This repo contains ***FPGA Manager Drivers*** compatible with the FPGA subsystem in Linux for both ICAP controller IP cores from AMD ([HWICAP](https://www.xilinx.com/products/intellectual-property/axi_hwicap.html) and [HBICAP](https://www.xilinx.com/products/intellectual-property/axi-hbicap.html)).
+This repo contains ***FPGA Manager Drivers*** compatible with the [FPGA subsystem in Linux](https://www.kernel.org/doc/html/v5.10//driver-api/fpga/index.html) for both ICAP controller IP cores from AMD ([HWICAP](https://www.xilinx.com/products/intellectual-property/axi_hwicap.html) and [HBICAP](https://www.xilinx.com/products/intellectual-property/axi-hbicap.html)).
 
 ## Building the Drivers
 

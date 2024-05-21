@@ -534,6 +534,6 @@ static struct platform_driver hwicap_fpga_driver = {
 
 module_platform_driver(hwicap_fpga_driver);
 
-MODULE_AUTHOR("Karlsruhe Institue of Technology (KIT) - Institute for Data Processing and Electronics (IPE)");
+MODULE_AUTHOR("KIT-IPE, Hendrik Krause <Hendrik.Krause@kit.edu>");
 MODULE_DESCRIPTION("Xilinx HWICAP FPGA Manager");
 MODULE_LICENSE("GPL");
